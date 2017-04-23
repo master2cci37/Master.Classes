@@ -1,0 +1,1 @@
+<DefineConstants>TRACE;DEBUG;NUNIT</DefineConstants>
